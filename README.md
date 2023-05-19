@@ -11,4 +11,7 @@ Here are some of my main study projects:
 | 4.   | [Business analysis](https://github.com/rdgogolev/business_cohort_analysis)    | Analysis of marketing campaign, cohort analysis and unit-economics| python, pandas, numpy, matplotlib, seaborn |   
    
    
-🔭 You can also find in my porfolio solving of test cases with SQL, Python and visualisation tasks.
+🔭 You can also find in my porfolio solving of test cases with SQL, Python and visualisation tasks.   
+   
+ Email: rdgogolev@gmail.com
+ Telegram: @GogaTheLion
