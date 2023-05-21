@@ -9,7 +9,7 @@ Here are some of my main study projects:
 | 2.   | [А/В test results analysis for online shop](https://github.com/rdgogolev/AB_test_online_shop)    | A/B tests results analysis, visualisition of the results, statistical analysis.| python, pandas, numpy, matplotlib, scipy |
 | 3.   | [Estate market analysis](https://github.com/rdgogolev/estate-market-analysis)    | Discovering real estate parameters affecting the cost of housing.| python, pandas, numpy, matplotlib, scipy |
 | 4.   | [Business analysis](https://github.com/rdgogolev/business_cohort_analysis)    | Analysis of marketing campaign, cohort analysis and unit-economics| python, pandas, numpy, matplotlib, seaborn |   
-   
+| 5.   | [Videogames market analysis](https://github.com/rdgogolev/videogames-market-forecast)    | Predicting the videogames market trends | python, pandas, numpy, matplotlib, seaborn, scipy |   
    
 🔭 You can also find in my porfolio solving of test cases with SQL, Python and visualisation tasks.   
    
