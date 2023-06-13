@@ -4,7 +4,7 @@ I'm a **`Data Analyst`**, mainly in Product Analytics.
    
 **Some facts about me:**
 * Before switching to Data Analytics, I was a consultant at KPMG. It was a huge experience in working with business clients
-* Was good at Math at school, but decides to study Law :anguished: Now I'm catching my up
+* Was good at Math at school, but decides to study Law :anguished: Now I'm catching up
 * Finishing Data Analytics study in Yandex Practicum 🌱
 
 Here are some of my projects:
