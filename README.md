@@ -8,13 +8,14 @@ I'm a **`Data Analyst`**, mainly in Product Analytics.
 * Finishing Data Analytics study in Yandex Practicum 🌱
 
 Here are some of my projects:
-| #    | Project name              | Description                                                                                       | Stack                       |
-| ---- | --------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------- |
-| 1.   | [А/А/В test results analysis fro mobile app](https://github.com/rdgogolev/AAB_test_mobile_app)    | Analysis of user event funnel in mobile application and test results A/A/B.| python, pandas, numpy, matplotlib, scipy, seaborn, math |
-| 2.   | [А/В test results analysis for online shop](https://github.com/rdgogolev/AB_test_online_shop)    | A/B tests results analysis, visualisition of the results, statistical analysis.| python, pandas, numpy, matplotlib, scipy |
-| 3.   | [Estate market analysis](https://github.com/rdgogolev/estate-market-analysis)    | Discovering real estate parameters affecting the cost of housing.| python, pandas, numpy, matplotlib, scipy |
-| 4.   | [Business analysis](https://github.com/rdgogolev/business_cohort_analysis)    | Analysis of marketing campaign, cohort analysis and unit-economics| python, pandas, numpy, matplotlib, seaborn |   
-| 5.   | [Videogames market analysis](https://github.com/rdgogolev/videogames-market-forecast)    | Predicting the videogames market trends | python, pandas, numpy, matplotlib, seaborn, scipy |   
+| #    | Project name              | Description                                                                                       | Sphere                       | Stack                       |
+| ---- | --------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------- |------------------- |
+| 1.   | [А/А/В test results analysis fro mobile app](https://github.com/rdgogolev/AAB_test_mobile_app)    | Analysis of user event funnel in mobile application and test results A/A/B.| mobile apps | python, pandas, numpy, matplotlib, scipy, seaborn, math |
+| 2.   | [А/В test results analysis for online shop](https://github.com/rdgogolev/AB_test_online_shop)    | A/B tests results analysis, visualisition of the results, statistical analysis.| e-commerce | python, pandas, numpy, matplotlib, scipy |
+| 3.   | [Estate market analysis](https://github.com/rdgogolev/estate-market-analysis)    | Discovering real estate parameters affecting the cost of housing.| market analysis | python, pandas, numpy, matplotlib, scipy |
+| 4.   | [Business analysis](https://github.com/rdgogolev/business_cohort_analysis)    | Analysis of marketing campaign, cohort analysis and unit-economics| mobile apps | python, pandas, numpy, matplotlib, seaborn |   
+| 5.   | [Videogames market analysis](https://github.com/rdgogolev/videogames-market-forecast)    | Predicting the videogames market trends | market analysis | python, pandas, numpy, matplotlib, seaborn, scipy |
+| 6.   | [Analytics for delivery service](https://github.com/rdgogolev/delivery_service_analytics)    | Strategic analysis of key metrics for a quick-food delivery service | market analysis | python, pandas, matplotlib, seaborn |
    
 📫 **How to reach me**   
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/GogaTheLion)
